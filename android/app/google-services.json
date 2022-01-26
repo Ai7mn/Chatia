@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318278414770",
+    "firebase_url": "https://chatia-1fa4d.firebaseio.com",
+    "project_id": "chatia-1fa4d",
+    "storage_bucket": "chatia-1fa4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318278414770:android:7e50f28af9e073bc10b4ab",
+        "android_client_info": {
+          "package_name": "com.example.chatia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318278414770-gft7d68insuclpg5u9n4baju38e0o6mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74YBt1xm-Ay09z_KGsFGB7RSeEszI4g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318278414770-gft7d68insuclpg5u9n4baju38e0o6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
